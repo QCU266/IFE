@@ -1,0 +1,12 @@
+.
+├── index.html
+├── phase_1
+│   ├── task1
+│   │   ├── 01.html
+│   │   └── 01.jpg
+│   └── task2
+│       └── 02.html
+├── README.md
+└── TREE
+
+3 directories, 6 files
